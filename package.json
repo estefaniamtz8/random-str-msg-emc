@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-emc",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "estefania",
+  "license": "ISC",
+  "dependencies": {
+    "g": "^2.0.1"
+  },
+  "bin": {
+    "random-str-msg-emc": "bin/global.js"
+  },
+  "keywords": [],
+  "preferGlobal": true
+}
